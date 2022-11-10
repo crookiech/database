@@ -19,3 +19,5 @@ $$\mathrm{S}_{x}=\frac{\mathrm{v}_{x}^{2}-\mathrm{v}_{0x}^{2}}{2\mathrm{a}_{x}}$
 $$\mathrm{x}=\mathrm{x}_{0}+\mathrm{v}_{0}\mathrm{t}+\frac{\mathrm{a}\mathrm{t}^{2}}{2}$$
 
 $$\mathrm{E}=\mathrm{k}\frac{\left| q_{ш} \right|}{\varepsilon\left( \mathrm{R}+\mathrm{r}^{2} \right)}$$
+
+$$\mathrm{S}_{x}=\frac{\mathrm{v}_{x}^{2}-\mathrm{v}_{0x}^{2}}{2\mathrm{a}_{x}}$$
