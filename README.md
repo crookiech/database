@@ -16,8 +16,8 @@ python шпора.ipynb - шпаргалка по питону
 
 $$\overline{E}_{1}^{2}=\sqrt{\frac{\mathrm{F}\mathrm{a}^{\mathrm{x}-1}}{\left( \mathrm{x}-1 \right)*\mathrm{x}}}+\mathrm{a}_1^{\frac{1}{2}}+\beta_2^{\frac{2}{3}}$$
 
-$$\mathrm{S}_{x}=\frac{\mathrm{v}_x^{2}-\mathrm{v}_0x^{2}}{2\mathrm{a}_{x}}$$
+$$\mathrm{S}_{x}=\frac{\mathrm{v}_x^{2}-\mathrm{v}_0x^{2}}{2\mathrm{a}_x}$$
 
-$$\mathrm{x}=\mathrm{x}_{0}+\mathrm{v}_0 \mathrm{t}+\frac{\mathrm{a}\mathrm{t}^{2}}{2}$$
+$$\mathrm{x}=\mathrm{x}_0+\mathrm{v}_0 \mathrm{t}+\frac{\mathrm{a}\mathrm{t}^{2}}{2}$$
 
 $$\mathrm{E}=\mathrm{k}\frac{\left| q_{ш} \right|}{\varepsilon\left( \mathrm{R}+\mathrm{r}^{2} \right)}$$
