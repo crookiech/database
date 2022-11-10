@@ -13,3 +13,7 @@ python шпора.ipynb - шпаргалка по питону
 ![lagrida_latex_editor (10)](https://user-images.githubusercontent.com/114642658/201016077-8ca2368d-b2b6-4597-94af-23b7f7cef787.png)
 
 $$\mathrm{S}_{x}=\frac{\mathrm{v}_{x}^{2}-\mathrm{v}_{0x}^{2}}{2\mathrm{a}_{x}}$$
+
+$$\mathrm{x}=\mathrm{x}_{0}+\mathrm{v}_{0}\mathrm{t}+\frac{\mathrm{a}\mathrm{t}^{2}}{2}$$
+
+$$\mathrm{E}=\mathrm{k}\frac{\left| \\q_{ш} \right|}{\varepsilon\left( \mathrm{R}+\mathrm{r}^{2} \right)}$$
