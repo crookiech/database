@@ -29,8 +29,8 @@ $$\mathrm{E}=\mathrm{k}\frac{\left| q_{ш} \right|}{\varepsilon\left( \mathrm{R}
 
 ```mermaid
 flowchart LR
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
+A[10 класс] -->|аттестация| B(11 класс)
+B --> C{ЕГЭ}
+C -->|сдан| D[ВУЗ]
+C -->|не сдан| E[путешествия]
 ```
