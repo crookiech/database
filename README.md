@@ -26,3 +26,10 @@ $$\mathrm{S}_x=\frac{\mathrm{v}_x^{2}-\mathrm{v}_0^{2}}{2\mathrm{a}_x}$$
 $$\mathrm{x}=\mathrm{x}_0+\mathrm{v}_0 \mathrm{t}+\frac{\mathrm{a}\mathrm{t}^{2}}{2}$$
 
 $$\mathrm{E}=\mathrm{k}\frac{\left| q_{ш} \right|}{\varepsilon\left( \mathrm{R}+\mathrm{r}^{2} \right)}$$
+
+flowchart LR
+
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
