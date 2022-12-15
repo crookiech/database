@@ -29,7 +29,6 @@ $$\mathrm{E}=\mathrm{k}\frac{\left| q_{ш} \right|}{\varepsilon\left( \mathrm{R}
 
 ```mermaid
 flowchart LR
-
 A[Hard] -->|Text| B(Round)
 B --> C{Decision}
 C -->|One| D[Result 1]
